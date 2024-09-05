@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="textHint">Введите значение от 1 до 50</string>
+    <string name="menuColor">Цветовое качество</string>
+    <string name="menuExit">Выход из приложения</string>
+    <string name="buttonRandom">Случайное число</string>
+    <string name="defaultValue">50</string>
+</resources>
